@@ -1,16 +1,15 @@
 {
   "files": {
     "main.css": "/datamine-totem/static/css/main.073c9b0a.css",
-    "main.js": "/datamine-totem/static/js/main.c2251fe5.js",
+    "main.js": "/datamine-totem/static/js/main.d889330f.js",
     "static/js/787.f3499027.chunk.js": "/datamine-totem/static/js/787.f3499027.chunk.js",
-    "static/media/logo.svg": "/datamine-totem/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/datamine-totem/index.html",
     "main.073c9b0a.css.map": "/datamine-totem/static/css/main.073c9b0a.css.map",
-    "main.c2251fe5.js.map": "/datamine-totem/static/js/main.c2251fe5.js.map",
+    "main.d889330f.js.map": "/datamine-totem/static/js/main.d889330f.js.map",
     "787.f3499027.chunk.js.map": "/datamine-totem/static/js/787.f3499027.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.c2251fe5.js"
+    "static/js/main.d889330f.js"
   ]
 }
