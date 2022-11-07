@@ -1,0 +1,41 @@
+#left-top-background-home {
+    position: absolute;
+    width: 50vw; 
+    height: 90vh;
+    background: linear-gradient(180deg, #0083A9 0%, #EFEFEF 100%);
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+
+#right-top-background-home {
+    background: linear-gradient(180deg, #0083A9 0%, #EFEFEF 100%);
+    width: 50vw;
+    height: 90vh;
+    top: 0;
+    left: 50%;
+    z-index: 0;
+    position: absolute;
+    border-radius: 0px 0px 0px 25%;
+}
+
+#left-bottom-background-home {
+    background-color: white;
+    width: 50vw;
+    height: 60vh;
+    z-index: 0;
+    position: absolute;
+    top: 60%;
+    left: 0;
+    border-radius: 0px 25% 0px 0px;
+}
+
+#right-bottom-background-home {
+    background-color: white;
+    width: 50vw;
+    height: 60vh;
+    z-index: -2;
+    position: absolute;
+    top: 60%;
+    left: 50%;
+}

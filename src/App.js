@@ -1,9 +1,9 @@
-import logo from './logo.svg';
 import './App.css';
+import Home from './Views/Home/Home';
 
 function App() {
   return (
-    <h1>Home</h1>
+    <Home></Home>
   );
 }
 
