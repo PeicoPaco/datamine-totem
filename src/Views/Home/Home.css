@@ -1,7 +1,7 @@
 #left-top-background-home {
     position: absolute;
     width: 50vw; 
-    height: 75vh;
+    height: 56vh;
     background: linear-gradient(180deg, #0083A9 0%, #EFEFEF 100%);
     top: 0;
     left: 0;
@@ -11,32 +11,32 @@
 #right-top-background-home {
     background: linear-gradient(180deg, #0083A9 0%, #EFEFEF 100%);
     width: 50vw;
-    height: 75vh;
+    height: 56vh;
     top: 0;
     left: 50%;
     z-index: -1;
     position: absolute;
-    border-radius: 0px 0px 0px 5vh;
+    border-radius: 0px 0px 0px 3vh;
 }
 
 #left-bottom-background-home {
     background-color: white;
     width: 50vw;
-    height: 60vh;
+    height: 50vh;
     z-index: -1;
     position: absolute;
-    top: 65vh;
+    top: 50vh;
     left: 0;
-    border-radius: 0px 5vh 0px 0px;
+    border-radius: 0px 3vh 0px 0px;
 }
 
 #right-bottom-background-home {
     background-color: white;
     width: 50vw;
-    height: 60vh;
+    height: 50vh;
     z-index: -3;
     position: absolute;
-    top: 65vh;
+    top: 50vh;
     left: 50%;
 }
 
@@ -45,6 +45,9 @@
     flex-direction: row;
     justify-content: space-around;
     list-style-type: none;
+    position: relative;
+    margin: 0vw;
+    padding: 1vw;
 }
 
 .navbar-home {
@@ -59,11 +62,21 @@
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
 
+.navbar-link-home {
+    color: #0083A9;
+    font-weight: 600;
+    text-decoration: underline 0.25vw;
+    font-size: 2.5vw;
+}
+
 .center-image-home {
     position: absolute;
     width: 60vw;
-    height: 30vh;
-    background-color: black;
+    height: 20vh;
+    background-image: url("../../Images/Home/Quienessomos.JPG");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
     top: 15vh;
     border-radius: 3vh;
     left: 50%;
@@ -77,7 +90,7 @@
     height: 3vh;
     line-height: 3vh;
     background-color: #0083A9;
-    top: 46vh;
+    top: 35vh;
     border-radius: 2vh;
     left: 50%;
     margin-right: -50%;
@@ -98,7 +111,7 @@
     height: 10vh;
     line-height: 3vh;
     background-color: white;
-    top: 44vh;
+    top: 33vh;
     border-radius: 2vh;
     left: 50%;
     margin-right: -50%;
@@ -114,4 +127,15 @@
     padding: 0 7vw 0 7vw;
     line-height: 1.5vh;
     top: 2vh;
+}
+
+.logo-datamine-home {
+    position: absolute;
+    width: 40vw;
+    height: 7vh;
+    background-image: url('../../Images/Home/LOGO-DATAMINE.jpg');
+    background-position: center;
+    background-size: cover;
+    top: 50vh;
+    left: 5vw;
 }

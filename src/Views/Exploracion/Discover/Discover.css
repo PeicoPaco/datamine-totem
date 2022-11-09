@@ -1,0 +1,184 @@
+#background-top-left-discover {
+    position: absolute;
+    width: 50vw; 
+    height: 8vh;
+    background-color: white;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    border-radius: 0px 0px 5.5vh 0px;
+}
+
+#background-top-right-discover {
+    background: linear-gradient(180deg, #497750 0%, white 100%);
+    width: 50vw;
+    height: 70vh;
+    top: 0;
+    left: 50%;
+    z-index: -1;
+    position: absolute;
+    border-radius: 5.5vh 0px 0px 0px;
+}
+
+#background-bottom-left-discover {
+    background: linear-gradient(180deg, #497750 0%, white 100%);
+    width: 50vw;
+    height: 70vh;
+    z-index: -2;
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 0px 5.5vh 0px 0px;
+}
+
+#background-top-left-discover-blue {
+    position: absolute;
+    width: 50vw; 
+    height: 8vh;
+    background-color: white;
+    top: 70vh;
+    left: 0;
+    z-index: -1;
+    border-radius: 0px 0px 5.5vh 0px;
+}
+
+#background-top-right-discover-blue {
+    background: linear-gradient(180deg, #23A3C7 0%, white 100%);
+    width: 50vw;
+    height: 70vh;
+    top: 70vh;
+    left: 50%;
+    z-index: -1;
+    position: absolute;
+    border-radius: 5.5vh 0px 0px 0px;
+}
+
+#background-bottom-left-discover-blue {
+    background: linear-gradient(180deg, #23A3C7 0%, white 100%);
+    width: 50vw;
+    height: 70vh;
+    z-index: -2;
+    position: absolute;
+    top: 70vh;
+    left: 0;
+    border-radius: 0px 3vh 0px 0px;
+}
+
+#logo-container-discover {
+    position: absolute;
+    width: 40vw;
+    height: 6vh;
+    background-image: url('../../../Images/Exploracion/Discover/LOGO-DISCOVER.gif');
+    background-position: center;
+    background-size: cover;
+    top: 1.5vh;
+    left: 5vw;
+    z-index: 1;
+}
+
+.text-container-discover {
+    top: 12vh;
+    position: absolute;
+    margin-left: 4vw;
+    margin-right: 4vw;
+    text-align: justify;
+    color: white;
+    font-weight: 500;
+    font-size: 2.2vw;
+}
+
+.image-container-discover {
+    position: absolute; 
+    top: 20vh;
+    left: 5vw;
+    background-color: white;
+    width: 90vw;
+    height: 23vh;
+    border-radius: 3vh; 
+    box-shadow: 0vh 0px 0.5vh 0.5vh rgba(124, 176, 65, 0.25);
+}
+
+.image-container-title-discover {
+    position: relative;
+    top: 0vh;
+    background-color: #497750;
+    width: 25vw;
+    line-height: 2vh;
+    height: 2vh;
+    color: white;
+    font-weight: 500;
+    font-size: 2vw;
+    text-align: center;
+    border-radius: 1vh;
+    left: 2vw;
+}
+
+.image-container-subtitle-discover {
+    position: relative;
+    top: -1vh;
+    background-color: #497750;
+    width: 15vw;
+    line-height: 1.5vh;
+    font-size: 1.5vw;
+    height: 1.5vh;
+    color: white;
+    font-weight: 400;
+    text-align: center;
+    border-radius: 1vh;
+    left: 60vw;
+}
+
+.image-container-button-discover {
+    position: relative;
+    top: 1vh;
+    background-color: #497750;
+    width: 15vw;
+    line-height: 1.5vh;
+    font-size: 1.5vw;
+    height: 1.5vh;
+    color: white;
+    font-weight: 400;
+    text-align: center;
+    border-radius: 1vh;
+    left: 45%;
+}
+
+.image-container-image-discover {
+    position: relative;
+    width: 40vw;
+    height: 13vh;
+    background-image: url("../../../Images/Exploracion/Discover/DiscArcPro_First_Frame.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    top: 0vh;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, 0%);
+}
+
+.image-container-discover-2 {
+    position: absolute; 
+    top: 45vh;
+    left: 5vw;
+    background-color: white;
+    width: 90vw;
+    height: 23vh;
+    border-radius: 3vh; 
+    box-shadow: 0vh 0px 0.5vh 0.5vh rgba(124, 176, 65, 0.25);
+}
+
+.image-container-title-discover-2 {
+    position: relative;
+    top: 0vh;
+    background-color: #497750;
+    width: 25vw;
+    line-height: 2vh;
+    height: 2vh;
+    color: white;
+    font-weight: 500;
+    font-size: 2vw;
+    text-align: center;
+    border-radius: 1vh;
+    left: 2vw;
+}

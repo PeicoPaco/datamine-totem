@@ -26,6 +26,7 @@ function Home() {
                 las etapas de exploración, modelamienti, planificación minera, operaciones, 
                 logística, comercialización y gestión de ESG</p>
         </div>
+        <div className='logo-datamine-home'></div>
     </>
   )
 }
