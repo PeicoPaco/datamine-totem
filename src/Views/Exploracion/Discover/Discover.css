@@ -6,7 +6,7 @@
     top: 0;
     left: 0;
     z-index: -1;
-    border-radius: 0px 0px 5.5vh 0px;
+    border-radius: 0px 0px 3.5vh 0px;
 }
 
 #background-top-right-discover {
@@ -17,7 +17,7 @@
     left: 50%;
     z-index: -1;
     position: absolute;
-    border-radius: 5.5vh 0px 0px 0px;
+    border-radius: 8vh 0px 0px 0px;
 }
 
 #background-bottom-left-discover {
@@ -28,7 +28,6 @@
     position: absolute;
     top: 0;
     left: 0;
-    border-radius: 0px 5.5vh 0px 0px;
 }
 
 #background-top-left-discover-blue {
@@ -39,7 +38,7 @@
     top: 70vh;
     left: 0;
     z-index: -1;
-    border-radius: 0px 0px 5.5vh 0px;
+    border-radius: 0px 0px 3.5vh 0px;
 }
 
 #background-top-right-discover-blue {
@@ -50,7 +49,7 @@
     left: 50%;
     z-index: -1;
     position: absolute;
-    border-radius: 5.5vh 0px 0px 0px;
+    border-radius: 8vh 0px 0px 0px;
 }
 
 #background-bottom-left-discover-blue {
@@ -61,7 +60,6 @@
     position: absolute;
     top: 70vh;
     left: 0;
-    border-radius: 0px 3vh 0px 0px;
 }
 
 #logo-container-discover {
