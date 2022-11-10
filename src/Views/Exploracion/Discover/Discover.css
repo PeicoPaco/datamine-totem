@@ -5,8 +5,8 @@
     background-color: white;
     top: 0;
     left: 0;
-    z-index: -1;
-    border-radius: 0px 0px 3.5vh 0px;
+    z-index: -2;
+    border-radius: 0px 0px 4vh 0px;
 }
 
 #background-top-right-discover {
@@ -17,14 +17,14 @@
     left: 50%;
     z-index: -1;
     position: absolute;
-    border-radius: 8vh 0px 0px 0px;
+    border-radius: 4vh 0px 0px 0px;
 }
 
 #background-bottom-left-discover {
     background: linear-gradient(180deg, #497750 0%, white 100%);
     width: 50vw;
     height: 70vh;
-    z-index: -2;
+    z-index: -3;
     position: absolute;
     top: 0;
     left: 0;
