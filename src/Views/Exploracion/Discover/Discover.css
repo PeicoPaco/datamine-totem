@@ -38,7 +38,7 @@
     top: 70vh;
     left: 0;
     z-index: -1;
-    border-radius: 0px 0px 3.5vh 0px;
+    border-radius: 0px 0px 4vh 0px;
 }
 
 #background-top-right-discover-blue {
@@ -49,7 +49,7 @@
     left: 50%;
     z-index: -1;
     position: absolute;
-    border-radius: 8vh 0px 0px 0px;
+    border-radius: 4vh 0px 0px 0px;
 }
 
 #background-bottom-left-discover-blue {
@@ -145,7 +145,7 @@
     position: relative;
     width: 40vw;
     height: 13vh;
-    background-image: url("../../../Images/Exploracion/Discover/DiscArcPro_First_Frame.png");
+    background-image: url("../../../Images/Exploracion/Discover/Discover-ContainerImg-1.png");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -166,17 +166,123 @@
     box-shadow: 0vh 0px 0.5vh 0.5vh rgba(124, 176, 65, 0.25);
 }
 
-.image-container-title-discover-2 {
+.image-container-image-discover-2 {
     position: relative;
+    width: 40vw;
+    height: 13vh;
+    background-image: url("../../../Images/Exploracion/Discover/DiscArcPro_First_Frame.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
     top: 0vh;
-    background-color: #497750;
-    width: 25vw;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, 0%);
+}
+
+.logo-container-discovermobile {
+    position: absolute;
+    width: 40vw;
+    height: 6vh;
+    background-image: url('../../../Images/Exploracion/Discover/LOGO-DISCOVER-MOBILE.gif');
+    background-position: center;
+    background-size: cover;
+    top: 70.5vh;
+    left: 5vw;
+    z-index: 1;
+}
+
+.text-container-discovermobile {
+    position: absolute;
+    top: 69.7vh;
+    left: 50vw;
+    padding-left: 4vw;
+    padding-right: 4vw;
+    text-align: justify;
+    color: white;
+}
+
+.large-container-discovermobile {
+    position: absolute;
+    top: 81vh; 
+    left: 10vw;
+    width: 80vw;
+    height: 50vh;
+    background-color: white;
+    box-shadow: 0vh 0px 0.5vh 0.5vh rgba(35, 163, 199, 0.25);
+    border-radius: 5vh;
+}
+
+.large-container-image-1 {
+    position: relative;
+    width: 60vw;
+    height: 17vh;
+    background-image: url("../../../Images/Exploracion/Discover/DiscMobile_First_Frame\ \(1\).png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    top: 2vh;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, 0%);
+}
+
+.large-container-button {
+    position: relative;
+    top: 2.5vh;
+    background-color: #23A3C7;
+    width: 15vw;
     line-height: 2vh;
+    font-size: 2vw;
     height: 2vh;
     color: white;
-    font-weight: 500;
-    font-size: 2vw;
+    font-weight: 400;
     text-align: center;
     border-radius: 1vh;
-    left: 2vw;
+    left: 45%;
 }
+
+.large-container-image-QR {
+    position: relative;
+    width: 15vh;
+    height: 15vh;
+    background-image: url("../../../Images/Exploracion/Discover/QR\ DISCOVER.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    top: 5vh;
+    left: 20vw;
+    margin-right: -50%;
+    transform: translate(-50%, 0%);
+}
+
+.large-container-arrows {
+    position: relative;
+    width: 5vh;
+    height: 5vh;
+    background-image: url("../../../Images/Exploracion/Discover/Arrows.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    top: -5vh;
+    left: 45vw;
+    margin-right: -50%;
+    transform: translate(-50%, 0%);
+}
+
+.large-container-image-2{
+    position: relative;
+    width: 10vh;
+    height: 20vh;
+    background-image: url("../../../Images/Exploracion/Discover/Discover-Mobile-Image-2.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    top: -17.5vh;
+    left: 65vw;
+    margin-right: -50%;
+    transform: translate(-50%, 0%);
+}
+
+
+

@@ -36,13 +36,27 @@ function Discover() {
       <div className='image-container-subtitle-discover'>
         <p>Datos en 2D y 3D</p>
       </div>
-      <div className='image-container-image-discover'>
+      <div className='image-container-image-discover-2'>
       </div>
       <div className='image-container-button-discover'>
         <p>VER MÁS</p>
       </div>
     </div>
-    <div id='logo-container-discovermobile'></div>
+    <div className='logo-container-discovermobile'></div>
+    <div className='text-container-discovermobile'>
+      <p>Recolección de datos en campo a través de dispositivos móviles, lo cual permite el envío de la data 
+        en tiempo real desde el DISCOVER DESKTOP al DISCOVER MOBILE.
+      </p>
+    </div>
+    <div className='large-container-discovermobile'>
+      <div className='large-container-image-1'></div>
+      <div className='large-container-button'>
+        <p>VER MÁS</p>
+      </div>
+      <div className='large-container-image-QR'></div>
+      <div className='large-container-arrows'></div>
+      <div className='large-container-image-2'></div>
+    </div>
     </>
   )
 }
