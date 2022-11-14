@@ -1,23 +1,26 @@
 {
   "files": {
-    "main.css": "/datamine-totem/static/css/main.faa07f06.css",
-    "main.js": "/datamine-totem/static/js/main.204f976a.js",
+    "main.css": "/datamine-totem/static/css/main.c87f9c10.css",
+    "main.js": "/datamine-totem/static/js/main.b3c4215c.js",
     "static/js/787.f3499027.chunk.js": "/datamine-totem/static/js/787.f3499027.chunk.js",
-    "static/media/Quienessomos.JPG": "/datamine-totem/static/media/Quienessomos.d6a233a04dad775fa8d7.JPG",
+    "static/media/DiscoverVideo1.mp4": "/datamine-totem/static/media/DiscoverVideo1.11031e0faab3f0998dc8.mp4",
+    "static/media/Quienessomos.png": "/datamine-totem/static/media/Quienessomos.5ea641277fdd0f67b7c8.png",
     "static/media/DiscArcPro_First_Frame.png": "/datamine-totem/static/media/DiscArcPro_First_Frame.659d2d5eeba2488c5687.png",
+    "static/media/sd.mp4": "/datamine-totem/static/media/sd.5737a7738f042cf86b1c.mp4",
     "static/media/Discover-ContainerImg-1.png": "/datamine-totem/static/media/Discover-ContainerImg-1.7ccc1e3a59f1857bb92e.png",
     "static/media/DiscMobile_First_Frame (1).png": "/datamine-totem/static/media/DiscMobile_First_Frame (1).366f2e5b6a47e71aa1b8.png",
     "static/media/Discover-Mobile-Image-2.jpeg": "/datamine-totem/static/media/Discover-Mobile-Image-2.f726990ca507a2dd0881.jpeg",
+    "static/media/fondo-dibujos-mineria.png": "/datamine-totem/static/media/fondo-dibujos-mineria.b3f7f4fa6f2db19bea1a.png",
     "static/media/LOGO-DISCOVER-MOBILE.gif": "/datamine-totem/static/media/LOGO-DISCOVER-MOBILE.e1a2f9bacb4e2d97801d.gif",
     "static/media/LOGO-DATAMINE.jpg": "/datamine-totem/static/media/LOGO-DATAMINE.ceca00b9aa58e05d4620.jpg",
     "static/media/LOGO-DISCOVER.gif": "/datamine-totem/static/media/LOGO-DISCOVER.52a39f852db827fd195b.gif",
     "index.html": "/datamine-totem/index.html",
-    "main.faa07f06.css.map": "/datamine-totem/static/css/main.faa07f06.css.map",
-    "main.204f976a.js.map": "/datamine-totem/static/js/main.204f976a.js.map",
+    "main.c87f9c10.css.map": "/datamine-totem/static/css/main.c87f9c10.css.map",
+    "main.b3c4215c.js.map": "/datamine-totem/static/js/main.b3c4215c.js.map",
     "787.f3499027.chunk.js.map": "/datamine-totem/static/js/787.f3499027.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.faa07f06.css",
-    "static/js/main.204f976a.js"
+    "static/css/main.c87f9c10.css",
+    "static/js/main.b3c4215c.js"
   ]
 }
