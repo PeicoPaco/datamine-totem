@@ -73,7 +73,7 @@
     position: absolute;
     width: 60vw;
     height: 20vh;
-    background-image: url("../../Images/Home/Quienessomos.JPG");
+    background-image: url("../../Images/Home/Quienessomos.png");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -138,4 +138,25 @@
     background-size: cover;
     top: 50vh;
     left: 5vw;
+}
+
+.lower-background-image {
+    position: absolute;
+    width: 100vw;
+    height: 50vw;
+    background-image: url("../../Images/Home/fondo-dibujos-mineria.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    bottom: 0;
+}
+
+.link-navbar-container {
+    position: absolute;
+    top: 60vh;
+    left: 5vw;
+}
+
+ul {
+    list-style-type: none;
 }

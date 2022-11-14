@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
 import './Home.css'
 
 function Home() {
@@ -21,12 +22,22 @@ function Home() {
             <h1 className='title-home'>¿Quiénes somos?</h1>
         </div>
         <div className='description-box-home'>
-            <p>Somos el principal proveedor mundial de tecnologóa para planificación y 
+            <p>Somos el principal proveedor mundial de tecnología para planificación y 
                 gestión de las operaciones mineras. Brindamos soluciones que abarcan 
-                las etapas de exploración, modelamienti, planificación minera, operaciones, 
+                las etapas de exploración, modelamiento, planificación minera, operaciones, 
                 logística, comercialización y gestión de ESG</p>
         </div>
         <div className='logo-datamine-home'></div>
+        <div className='link-navbar-container'>
+            <nav>
+                <ul>
+                    <li><Link to="/discover">Discover</Link></li>
+                    <li><Link to="/studioEM">StudioEM</Link></li>
+                </ul> 
+            </nav>
+        </div>
+        <div className='lower-background-image'></div>
+        
     </>
   )
 }

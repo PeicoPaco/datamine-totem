@@ -1,5 +1,7 @@
 import React from 'react'
 import './Discover.css'
+import { Link } from 'react-router-dom'
+import '../../globalart.css'
 
 function Discover() {
   return (
@@ -39,7 +41,7 @@ function Discover() {
       <div className='image-container-image-discover-2'>
       </div>
       <div className='image-container-button-discover'>
-        <p>VER MÁS</p>
+        <Link to="videoplayer/discover1"><p>VER MÁS</p></Link>
       </div>
     </div>
     <div className='logo-container-discovermobile'></div>
@@ -57,6 +59,9 @@ function Discover() {
       <div className='large-container-arrows'></div>
       <div className='large-container-image-2'></div>
     </div>
+    <Link to="/datamine-totem">
+      <button id='home-button'>Home</button>
+    </Link>
     </>
   )
 }

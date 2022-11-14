@@ -139,6 +139,7 @@
     text-align: center;
     border-radius: 1vh;
     left: 45%;
+    text-decoration: none;
 }
 
 .image-container-image-discover {
@@ -200,6 +201,7 @@
     padding-right: 4vw;
     text-align: justify;
     color: white;
+    font-size: 2vw;
 }
 
 .large-container-discovermobile {
@@ -244,13 +246,13 @@
 
 .large-container-image-QR {
     position: relative;
-    width: 15vh;
-    height: 15vh;
+    width: 14vh;
+    height: 14vh;
     background-image: url("../../../Images/Exploracion/Discover/QR\ DISCOVER.png");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    top: 5vh;
+    top: 7vh;
     left: 20vw;
     margin-right: -50%;
     transform: translate(-50%, 0%);
@@ -264,7 +266,7 @@
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    top: -5vh;
+    top: -2vh;
     left: 45vw;
     margin-right: -50%;
     transform: translate(-50%, 0%);
@@ -272,17 +274,19 @@
 
 .large-container-image-2{
     position: relative;
-    width: 10vh;
-    height: 20vh;
+    width: 11vh;
+    height: 22vh;
     background-image: url("../../../Images/Exploracion/Discover/Discover-Mobile-Image-2.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    top: -17.5vh;
+    top: -16vh;
     left: 65vw;
     margin-right: -50%;
     transform: translate(-50%, 0%);
 }
 
-
-
+a:link { text-decoration: none; }
+a:visited { text-decoration: none; }
+a:hover { text-decoration: none; }
+a:active { text-decoration: none; }
