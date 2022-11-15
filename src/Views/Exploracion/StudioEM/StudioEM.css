@@ -1,4 +1,4 @@
-#background-top-left-discover {
+#background-top-left-discover-EM {
     position: absolute;
     width: 50vw; 
     height: 8vh;
@@ -9,7 +9,7 @@
     border-radius: 0px 0px 4vh 0px;
 }
 
-#background-top-right-discover {
+#background-top-right-discover-EM {
     background: linear-gradient(180deg, #497750 0%, white 100%);
     width: 50vw;
     height: 100vh;
@@ -20,7 +20,7 @@
     border-radius: 4vh 0px 0px 0px;
 }
 
-#background-bottom-left-discover {
+#background-bottom-left-discover-EM {
     background: linear-gradient(180deg, #497750 0%, white 100%);
     width: 50vw;
     height: 100vh;
@@ -91,14 +91,14 @@
     font-weight: 400;
     text-align: center;
     border-radius: 1vh;
-    left: 45%;
+    left: 40%;
     text-decoration: none;
 }
 
 .image-container-image-EM {
     position: relative;
     width: 40vw;
-    height: auto;
+    height: 20vw;
     background-image: url("../../../Images/Exploracion/StudioEM/MODELO\ 3D.png");
     background-repeat: no-repeat;
     background-size: cover;
@@ -112,7 +112,7 @@
 .image-container-image-EM-2 {
     position: relative;
     width: 40vw;
-    height: auto;
+    height: 20vw;
     background-image: url("../../../Images/Exploracion/StudioEM/SECCIONES\ GEOLÓGICAS.png");
     background-repeat: no-repeat;
     background-size: cover;

@@ -164,4 +164,7 @@ ul {
 
 .link-navbar-container a:visited {
     color: black;
+} 
+.link-navbar-container a:link {
+    color: black;
 }

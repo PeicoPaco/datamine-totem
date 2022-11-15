@@ -4,9 +4,9 @@ import "./StudioEM.css"
 function StudioEM() {
   return (
     <>
-      <div id='background-top-left-discover'></div>
-      <div id='background-top-right-discover'></div>
-      <div id='background-bottom-left-discover'></div>
+      <div id='background-top-left-discover-EM'></div>
+      <div id='background-top-right-discover-EM'></div>
+      <div id='background-bottom-left-discover-EM'></div>
       <div id='logo-container-studioem'></div>
       <div className='text-container-EM'>
         <p>Está diseñado para geólogos y exploradores. Incluye edición de puntos 

@@ -145,7 +145,7 @@
 .image-container-image-discover {
     position: relative;
     width: 40vw;
-    height: auto;
+    height: 20vw;
     background-image: url("../../../Images/Exploracion/Discover/Discover-ContainerImg-1.png");
     background-repeat: no-repeat;
     background-size: cover;
@@ -170,7 +170,7 @@
 .image-container-image-discover-2 {
     position: relative;
     width: 40vw;
-    height: auto;
+    height: 20vw;
     background-image: url("../../../Images/Exploracion/Discover/DiscArcPro_First_Frame.png");
     background-repeat: no-repeat;
     background-size: cover;
@@ -241,7 +241,7 @@
     font-weight: 400;
     text-align: center;
     border-radius: 1vh;
-    left: 45%;
+    left: 40%;
 }
 
 .large-container-image-QR {
