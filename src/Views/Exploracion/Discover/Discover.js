@@ -19,16 +19,16 @@ function Discover() {
       </p>
     </div>
     <div className='image-container-discover'>
-      <div className='image-container-title-discover'>
-        <p>DISCOVER MAPINFO</p>
-      </div> 
-      <div className='image-container-subtitle-discover'>
-        <p>DISCOVER 2D</p>
-      </div>
-      <div className='image-container-image-discover'>
-      </div>
-      <div className='image-container-button-discover'>
-        <p>VER MÁS</p>
+        <div className='image-container-title-discover'>
+          <p>DISCOVER MAPINFO</p>
+        </div> 
+        <div className='image-container-subtitle-discover'>
+          <p>DISCOVER 2D</p>
+        </div>
+        <div className='image-container-image-discover'>
+        </div>
+        <div className='image-container-button-discover'>
+          <p>VER MÁS</p>
       </div>
     </div>
     <div className='image-container-discover-2'>
@@ -41,7 +41,7 @@ function Discover() {
       <div className='image-container-image-discover-2'>
       </div>
       <div className='image-container-button-discover'>
-        <Link to="videoplayer/discover1"><p>VER MÁS</p></Link>
+        <Link classname='my-link'to="videoplayer/discover1"><p>VER MÁS</p></Link>
       </div>
     </div>
     <div className='logo-container-discovermobile'></div>

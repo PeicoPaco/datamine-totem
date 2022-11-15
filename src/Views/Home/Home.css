@@ -149,6 +149,7 @@
     background-size: cover;
     background-position: center;
     bottom: 0;
+    margin: 0;
 }
 
 .link-navbar-container {
@@ -159,4 +160,8 @@
 
 ul {
     list-style-type: none;
+}
+
+.link-navbar-container a:visited {
+    color: black;
 }

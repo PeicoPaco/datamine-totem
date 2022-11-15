@@ -3,3 +3,9 @@
     bottom: 2vh;
     left: 48vw
 }
+
+
+a:link { text-decoration: none; color: white}
+a:visited { text-decoration: none; color: white; }
+a:hover { text-decoration: none; }
+a:active { text-decoration: none; color: white;} 
