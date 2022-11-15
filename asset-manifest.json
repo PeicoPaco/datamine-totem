@@ -1,28 +1,32 @@
 {
   "files": {
-    "main.css": "/datamine-totem/static/css/main.4e159d21.css",
-    "main.js": "/datamine-totem/static/js/main.3077f087.js",
+    "main.css": "/datamine-totem/static/css/main.77a21047.css",
+    "main.js": "/datamine-totem/static/js/main.6f8757f7.js",
     "static/js/787.f3499027.chunk.js": "/datamine-totem/static/js/787.f3499027.chunk.js",
     "static/media/DiscoverVideo1.mp4": "/datamine-totem/static/media/DiscoverVideo1.11031e0faab3f0998dc8.mp4",
     "static/media/Quienessomos.png": "/datamine-totem/static/media/Quienessomos.5ea641277fdd0f67b7c8.png",
     "static/media/DiscArcPro_First_Frame.png": "/datamine-totem/static/media/DiscArcPro_First_Frame.659d2d5eeba2488c5687.png",
     "static/media/sd.mp4": "/datamine-totem/static/media/sd.5737a7738f042cf86b1c.mp4",
+    "static/media/DHLogger.PNG": "/datamine-totem/static/media/DHLogger.5e4837cbf258f3c7fc4d.PNG",
+    "static/media/Core Shed.PNG": "/datamine-totem/static/media/Core Shed.e14d3da12d67b4d274ca.PNG",
     "static/media/Discover-ContainerImg-1.png": "/datamine-totem/static/media/Discover-ContainerImg-1.7ccc1e3a59f1857bb92e.png",
     "static/media/DiscMobile_First_Frame (1).png": "/datamine-totem/static/media/DiscMobile_First_Frame (1).366f2e5b6a47e71aa1b8.png",
     "static/media/MODELO 3D.png": "/datamine-totem/static/media/MODELO 3D.a304159370f7f5e2bade.png",
+    "static/media/Report Manager.png": "/datamine-totem/static/media/Report Manager.b33ba8bb211f6125cc02.png",
     "static/media/SECCIONES GEOLÓGICAS.png": "/datamine-totem/static/media/SECCIONES GEOLÓGICAS.6dcad2c4811a77c02676.png",
     "static/media/Discover-Mobile-Image-2.jpeg": "/datamine-totem/static/media/Discover-Mobile-Image-2.f726990ca507a2dd0881.jpeg",
+    "static/media/SAMPLE STATION.png": "/datamine-totem/static/media/SAMPLE STATION.a48d094012c1763d3af0.png",
     "static/media/fondo-dibujos-mineria.png": "/datamine-totem/static/media/fondo-dibujos-mineria.b3f7f4fa6f2db19bea1a.png",
     "static/media/LOGO-DISCOVER-MOBILE.gif": "/datamine-totem/static/media/LOGO-DISCOVER-MOBILE.e1a2f9bacb4e2d97801d.gif",
     "static/media/LOGO-DATAMINE.jpg": "/datamine-totem/static/media/LOGO-DATAMINE.ceca00b9aa58e05d4620.jpg",
     "static/media/LOGO-DISCOVER.gif": "/datamine-totem/static/media/LOGO-DISCOVER.52a39f852db827fd195b.gif",
     "index.html": "/datamine-totem/index.html",
-    "main.4e159d21.css.map": "/datamine-totem/static/css/main.4e159d21.css.map",
-    "main.3077f087.js.map": "/datamine-totem/static/js/main.3077f087.js.map",
+    "main.77a21047.css.map": "/datamine-totem/static/css/main.77a21047.css.map",
+    "main.6f8757f7.js.map": "/datamine-totem/static/js/main.6f8757f7.js.map",
     "787.f3499027.chunk.js.map": "/datamine-totem/static/js/787.f3499027.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4e159d21.css",
-    "static/js/main.3077f087.js"
+    "static/css/main.77a21047.css",
+    "static/js/main.6f8757f7.js"
   ]
 }
