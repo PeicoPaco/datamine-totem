@@ -145,7 +145,7 @@
 .image-container-image-discover {
     position: relative;
     width: 40vw;
-    height: 13vh;
+    height: auto;
     background-image: url("../../../Images/Exploracion/Discover/Discover-ContainerImg-1.png");
     background-repeat: no-repeat;
     background-size: cover;
@@ -170,7 +170,7 @@
 .image-container-image-discover-2 {
     position: relative;
     width: 40vw;
-    height: 13vh;
+    height: auto;
     background-image: url("../../../Images/Exploracion/Discover/DiscArcPro_First_Frame.png");
     background-repeat: no-repeat;
     background-size: cover;
