@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/datamine-totem/static/css/main.77a21047.css",
+    "main.css": "/datamine-totem/static/css/main.7cdd5ee5.css",
     "main.js": "/datamine-totem/static/js/main.6f8757f7.js",
     "static/js/787.f3499027.chunk.js": "/datamine-totem/static/js/787.f3499027.chunk.js",
     "static/media/DiscoverVideo1.mp4": "/datamine-totem/static/media/DiscoverVideo1.11031e0faab3f0998dc8.mp4",
@@ -21,12 +21,12 @@
     "static/media/LOGO-DATAMINE.jpg": "/datamine-totem/static/media/LOGO-DATAMINE.ceca00b9aa58e05d4620.jpg",
     "static/media/LOGO-DISCOVER.gif": "/datamine-totem/static/media/LOGO-DISCOVER.52a39f852db827fd195b.gif",
     "index.html": "/datamine-totem/index.html",
-    "main.77a21047.css.map": "/datamine-totem/static/css/main.77a21047.css.map",
+    "main.7cdd5ee5.css.map": "/datamine-totem/static/css/main.7cdd5ee5.css.map",
     "main.6f8757f7.js.map": "/datamine-totem/static/js/main.6f8757f7.js.map",
     "787.f3499027.chunk.js.map": "/datamine-totem/static/js/787.f3499027.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.77a21047.css",
+    "static/css/main.7cdd5ee5.css",
     "static/js/main.6f8757f7.js"
   ]
 }
