@@ -56,12 +56,14 @@
 .image-container-EM {
     position: absolute; 
     top: 25vh;
-    left: 5vw;
     background-color: white;
-    width: 90vw;
+    width: 80vw;
     height: 23vh;
     border-radius: 3vh; 
     box-shadow: 0vh 0px 0.5vh 0.5vh rgba(124, 176, 65, 0.25);
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, 0%);
 }
 
 .image-container-title-EM {
@@ -76,7 +78,7 @@
     font-size: 2vw;
     text-align: center;
     border-radius: 1vh;
-    left: 2vw;
+    left: 5vw;
 }
 
 .image-container-button-EM {
