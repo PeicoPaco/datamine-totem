@@ -31,9 +31,12 @@ function Home() {
         <div className='link-navbar-container'>
             <nav>
                 <ul>
+                    <li><Link  to="/sirovision">Sirovision</Link></li>
                     <li><Link  to="/discover">Discover</Link></li>
                     <li><Link  to="/studioEM">StudioEM</Link></li>
                     <li><Link  to="/fusion">Fusion</Link></li>
+                    <li><Link  to="/studiomapper">StudioMapper</Link></li>
+                    <li><Link  to="/studiorm">Studio RM</Link></li>
                 </ul> 
             </nav>
         </div>

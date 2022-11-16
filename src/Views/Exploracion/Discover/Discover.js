@@ -41,7 +41,7 @@ function Discover() {
       <div className='image-container-image-discover-2'>
       </div>
       <div className='image-container-button-discover'>
-        <Link to="videoplayer/discover1"><p>VER MÁS</p></Link>
+        <Link to="../videoplayer/discover1"><p>VER MÁS</p></Link>
       </div>
     </div>
     <div className='logo-container-discovermobile'></div>

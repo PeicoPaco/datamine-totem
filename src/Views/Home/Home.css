@@ -149,13 +149,13 @@
     background-size: cover;
     background-position: center;
     bottom: 0;
-    margin: 0;
 }
 
 .link-navbar-container {
     position: absolute;
     top: 60vh;
     left: 5vw;
+    z-index: 2;
 }
 
 ul {
